@@ -8,7 +8,3 @@
 - 🐍 Python 全栈 / 网络安全（蓝队 / 渗透）
 
 📝 **博客**：[11pmsleep.gungnir.top](https://11pmsleep.gungnir.top/) —— 逆向实战、爬虫风控、AI 工具链的持续笔记（500+ 篇，含大厂反爬全链路实战系列）
-
-### 代表项目
-- [firefox-reverse](https://github.com/11pmsleep/firefox-reverse) —— 内置 AI 逆向 Agent 的 Firefox，通用 JS/JSVMP/WASM/签名逆向工作站
-- [note](https://github.com/11pmsleep/note) —— B 站 / 抖音视频的结构化 AI 笔记仓库
